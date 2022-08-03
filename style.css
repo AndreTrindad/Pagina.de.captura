@@ -27,7 +27,7 @@ header{
 
 section{
     padding: 20px;
-    background-image: url(../images/people.jpg);
+    background-image: url(../images/people.jpg); /*Caminho adicionado no momento da progração no VS CODE*/
     background-size: cover;
     overflow: hidden;
 }
@@ -67,7 +67,7 @@ select{
     -webkit-appearance: none;
     appearance: nome;
 
-    background-image: url(../images/arrow.jpg);
+    background-image: url(../images/arrow.jpg); /*Caminho adicionado no momento da progração no VS CODE*/
     background-repeat: no-repeat;
     background-position: calc(100% - 10px) center;
 }
