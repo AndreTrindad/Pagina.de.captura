@@ -27,3 +27,4 @@ O projeto foi criado para treinar o html e css, mas o objetivo principal foi faz
 ---
 
 <h5 align='center' >Feito com :green_heart: por <a href="https://github.com/AndreTrindad" target="_blank">André Trindade</a> </h5>
+
